@@ -11,3 +11,4 @@ This is the repository for the JavaScript Employee Payroll Tracker. Features inc
 ![A screenshot of the JavaScript Employee Payroll Tracker.](https://media.discordapp.net/attachments/1202382459103219742/1235824723397705778/image.png?ex=6635c6f6&is=66347576&hm=1f27f57fddc3369fd5706500870b4091128eeafd1ff62834b6ddc0b6debe5be2&=&format=webp&quality=lossless&width=799&height=471)
 ## Link to Github page
 
+https://nubsu.github.io/JavaScript-Employee-Payroll-Tracker/
